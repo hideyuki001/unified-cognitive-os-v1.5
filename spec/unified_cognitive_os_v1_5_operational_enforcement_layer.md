@@ -280,7 +280,7 @@ class ExecutionOrderEnforcer:
 
 ##  📋 LAYER 2: MODULE INTEGRATION — Red Flag Library v1.2
 
-2.1 Red Flag Library Integration  
+### 2.1 Red Flag Library Integration  
 pythonclass RedFlagLibrary\_v1\_2:  
     """  
     Red Flag Library v1.2 — Integrated from external specification  
@@ -412,7 +412,7 @@ pythonclass RedFlagLibrary\_v1\_2:
                 ))  
           
         return flags  
-2.2 Red Flag Catalog (Complete)  
+### 2.2 Red Flag Catalog (Complete)  
 yaml\# Red Flag Library v1.2 — Complete Catalog
 
 \# Category 1: Ambiguity (AMB)  
@@ -519,7 +519,7 @@ MFLD-3:
 
 ## 🛑 LAYER 3: MODULE INTEGRATION — Judgment Stopline Enforcer v1.1
 
-3.1 Stopline Enforcer Integration  
+### 3.1 Stopline Enforcer Integration  
 pythonclass JudgmentStoplineEnforcer\_v1\_1:  
     """  
     Judgment Stopline Enforcer v1.1 — Integrated from external specification  
