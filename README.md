@@ -57,7 +57,7 @@ Status
 Complete specification: Repair-ready
 
 Next milestone: v1.6 (graduated rubrics + repair telemetry)
-
+```
 ## License
 MIT (recommended)
 
