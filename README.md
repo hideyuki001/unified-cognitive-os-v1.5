@@ -58,8 +58,8 @@ Complete specification: Repair-ready
 
 Next milestone: v1.6 (graduated rubrics + repair telemetry)
 
-License
+## License
 MIT (recommended)
 
-Author
+## Author
 Hideyuki Okabe
