@@ -837,7 +837,7 @@ def \_check\_scoring\_override(
       
     return StoplineVerdict\_v1\_1(stopline\_triggered=False, verdict="CONTINUE")
 
-\#\#\# \*\*3.2 Stopline Catalog (Complete)\*\*  
+### 3.2 Stopline Catalog (Complete)\*\*  
 \`\`\`yaml  
 \# Judgment Stopline Enforcer v1.1 — Complete Catalog
 
@@ -889,7 +889,7 @@ STOPLINE-5:
 
 ## \#\# 🔧 LAYER 4: MODULE INTEGRATION — Judgment Repair Operators v1.0
 
-\#\#\# \*\*4.1 JRO Engine Architecture\*\*  
+### 4.1 JRO Engine Architecture\*\*  
 \`\`\`python  
 class JudgmentRepairOperatorEngine\_v1\_0:  
     """  
@@ -1294,7 +1294,7 @@ class JudgmentRepairOperatorEngine\_v1\_0:
         return repaired\_level \> original\_level  
 \`\`\`
 
-\#\#\# \*\*4.2 JRO Operator Catalog (Complete)\*\*  
+### 4.2 JRO Operator Catalog (Complete)\*\*  
 \`\`\`yaml  
 \# Judgment Repair Operators v1.0 — Complete Catalog
 
@@ -1398,7 +1398,7 @@ application\_rules:
 
 ## \#\# 🎛️ LAYER 5: DATA STRUCTURES — v1.5 Extensions
 
-\#\#\# \*\*5.1 New Data Structures\*\*  
+### 5.1 New Data Structures\*\*  
 \`\`\`python  
 @dataclass  
 class RepairCandidate:  
@@ -1456,7 +1456,7 @@ class PostRepairAudit\_v1\_0:
     responsibility\_violations: List\[str\]  
 \`\`\`
 
-\#\#\# \*\*5.2 Updated Pipeline State\*\*  
+### 5.2 Updated Pipeline State\*\*  
 \`\`\`python  
 @dataclass  
 class PipelineState\_v1\_5(PipelineState\_v1\_4):  
