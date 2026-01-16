@@ -1,4 +1,4 @@
-    **🎯 Unified Cognitive OS v1.5 — Operational Enforcement Layer**
+# 🎯 Unified Cognitive OS v1.5 — Operational Enforcement Layer
 
 **Complete Specification: Red Flag Detection → Stopline Enforcement → Judgment Repair**
 
