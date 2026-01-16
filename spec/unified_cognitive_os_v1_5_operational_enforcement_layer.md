@@ -278,7 +278,7 @@ class ExecutionOrderEnforcer:
 
         return False  *\# Default: deny*
 
-##  📋 LAYER 2: MODULE INTEGRATION — Red Flag Library v1.2
+ 📋 LAYER 2: MODULE INTEGRATION — Red Flag Library v1.2
 
 ### 2.1 Red Flag Library Integration  
 pythonclass RedFlagLibrary\_v1\_2:  
@@ -517,7 +517,7 @@ MFLD-3:
   constraint: "responsibility\_conservation (Axiom 13)"  
   implication: "
 
-## 🛑 LAYER 3: MODULE INTEGRATION — Judgment Stopline Enforcer v1.1
+ 🛑 LAYER 3: MODULE INTEGRATION — Judgment Stopline Enforcer v1.1
 
 ### 3.1 Stopline Enforcer Integration  
 pythonclass JudgmentStoplineEnforcer\_v1\_1:  
@@ -887,7 +887,7 @@ STOPLINE-5:
 
 \---
 
-## \#\# 🔧 LAYER 4: MODULE INTEGRATION — Judgment Repair Operators v1.0
+ \#\# 🔧 LAYER 4: MODULE INTEGRATION — Judgment Repair Operators v1.0
 
 ### 4.1 JRO Engine Architecture\*\*  
 \`\`\`python  
